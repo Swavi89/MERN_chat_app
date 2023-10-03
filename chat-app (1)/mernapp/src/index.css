@@ -1,0 +1,19 @@
+.App{
+  min-height: 100vh;
+  background-image: url("./colorful-3d-background_23-2148484152.avif");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+
+::-webkit-scrollbar-thumb{
+  background: rgba(136, 136, 136, 0.281);
+}
+
+::-webkit-scrollbar-thumb:hover{
+  background: #555;
+}
